@@ -12,7 +12,7 @@
     echo $template->render([
          'nome' => 'Pedro Sperotto',
          'idade' => 16,
-         'titulo' => 'titulo',
+         'titulo' => 'titulo'
     ]);
 
 
